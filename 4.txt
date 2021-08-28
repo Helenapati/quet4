@@ -1,0 +1,16 @@
+public class {
+    
+    public static void main(String[] args) {
+        
+    X = m == 10;
+     System.out.println("Valor total:" + X);
+    Y = 11 <= 20;
+     System.out.println("10% de desconto:" Y); 
+    H = 21 <= 50; 
+     System.out.println("20% de desconto:" + H);
+    G = a < 50;
+     System.out.println("25% de desconto:" + G);
+    
+     
+    }
+}
